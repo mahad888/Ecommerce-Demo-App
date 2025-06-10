@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "title": "Wireless Headphones",
+    "price": 49.99,
+    "image": "wireless-headphone.jpg",
+    "category": "Audio"
+  },
+  {
+    "id": 2,
+    "title": "Smartwatch",
+    "price": 99.99,
+    "image": "smartwatch.jpg",
+    "category": "Wearables"
+  },
+  {
+    "id": 3,
+    "title": "Bluetooth Speaker",
+    "price": 29.99,
+    "image": "bluetooth-speaker.jpg",
+    "category": "Audio"
+  },
+  {
+    "id": 4,
+    "title": "Laptop Stand",
+    "price": 25.00,
+    "image": "laptop-stand.jpg",
+    "category": "Accessories"
+  },
+  {
+    "id": 5,
+    "title": "USB-C Hub",
+    "price": 39.99,
+    "image": "usb-c-hub.jpg",
+    "category": "Accessories"
+  },
+  {
+    "id": 6,
+    "title": "Mechanical Keyboard",
+    "price": 89.99,
+    "image": "mechanical-keyboard.jpg",
+    "category": "Computing"
+  },
+  {
+    "id": 7,
+    "title": "Gaming Mouse",
+    "price": 45.99,
+    "image": "gaming-mouse.jpg",
+    "category": "Computing"
+  },
+  {
+    "id": 8,
+    "title": "LED Monitor",
+    "price": 199.99,
+    "image": "led-monitor.jpg",
+    "category": "Computing"
+  },
+  {
+    "id": 9,
+    "title": "Webcam HD",
+    "price": 59.99,
+    "image": "webcam.jpg",
+    "category": "Accessories"
+  },
+  {
+    "id": 10,
+    "title": "Noise Cancelling Earbuds",
+    "price": 79.99,
+    "image": "./images/noise-cancelling-earbuds.jpg",
+    "category": "Audio"
+  },
+  {
+    "id": 11,
+    "title": "Smartphone Tripod",
+    "price": 22.99,
+    "image": "./images/smartphone-tripod.jpg",
+    "category": "Accessories"
+  },
+  {
+    "id": 12,
+    "title": "Ring Light",
+    "price": 35.99,
+    "image": "./images/ring-light.jpg",
+    "category": "Lighting"
+  },
+  {
+    "id": 13,
+    "title": "Power Bank",
+    "price": 29.99,
+    "image": "./images/power-bank.jpg",
+    "category": "Accessories"
+  },
+  {
+    "id": 14,
+    "title": "Portable SSD",
+    "price": 119.99,
+    "image": "./images/portable-ssd.jpg",
+    "category": "Storage"
+  },
+  {
+    "id": 15,
+    "title": "VR Headset",
+    "price": 299.99,
+    "image": "./images/vr-headset.jpg",
+    "category": "Gaming"
+  },
+  {
+    "id": 16,
+    "title": "Fitness Tracker",
+    "price": 55.00,
+    "image": "./images/fitness-tracker.jpg",
+    "category": "Wearables"
+  },
+  {
+    "id": 17,
+    "title": "Ergonomic Chair",
+    "price": 149.99,
+    "image": "./images/ergonomic-chair.jpg",
+    "category": "Furniture"
+  },
+  {
+    "id": 18,
+    "title": "Wireless Charger",
+    "price": 19.99,
+    "image": "./images/wireless-charger.jpg",
+    "category": "Accessories"
+  },
+  {
+    "id": 19,
+    "title": "Tablet Stand",
+    "price": 18.00,
+    "image": "./images/tablet-stand.jpg",
+    "category": "Accessories"
+  },
+  {
+    "id": 20,
+    "title": "Drawing Tablet",
+    "price": 89.50,
+    "image": "./images/drawing-tablet.jpg",
+    "category": "Computing"
+  },
+  {
+    "id": 21,
+    "title": "Smart TV Stick",
+    "price": 39.00,
+    "image": "./images/smart-tv-stick.jpg",
+    "category": "Entertainment"
+  },
+  {
+    "id": 22,
+    "title": "4K Action Camera",
+    "price": 129.99,
+    "image": "./images/4k-action-camera.jpg",
+    "category": "Cameras"
+  },
+  {
+    "id": 23,
+    "title": "Mini Projector",
+    "price": 99.95,
+    "image": "./images/mini-projector.jpg",
+    "category": "Entertainment"
+  },
+  {
+    "id": 24,
+    "title": "Digital Alarm Clock",
+    "price": 27.99,
+    "image": "./images/digital-alarm-clock.jpg",
+    "category": "Home"
+  },
+  {
+    "id": 25,
+    "title": "USB Desk Fan",
+    "price": 14.99,
+    "image": "./images/usb-desk-fan.jpg",
+    "category": "Home"
+  },
+  {
+    "id": 26,
+    "title": "Smart Light Bulb",
+    "price": 12.50,
+    "image": "./images/smart-light-bulb.jpg",
+    "category": "Lighting"
+  },
+  {
+    "id": 27,
+    "title": "Bluetooth Tracker",
+    "price": 19.00,
+    "image": "./images/bluetooth-tracker.jpg",
+    "category": "Accessories"
+  },
+  {
+    "id": 28,
+    "title": "Laptop Backpack",
+    "price": 59.99,
+    "image": "./images/laptop-backpack.jpg",
+    "category": "Bags"
+  },
+  {
+    "id": 29,
+    "title": "Desk Organizer",
+    "price": 21.99,
+    "image": "./images/desk-organizer.jpg",
+    "category": "Office"
+  },
+  {
+    "id": 30,
+    "title": "Surge Protector",
+    "price": 23.49,
+    "image": "./images/surge-protector.jpg",
+    "category": "Accessories"
+  }
+]
