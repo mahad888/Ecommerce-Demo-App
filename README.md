@@ -27,8 +27,10 @@ State Management: Redux Toolkit
 API Handling: Axios
 
 📷 Screenshots
-![image](https://github.com/user-attachments/assets/31816757-9220-4ae7-beb3-2e034aed03cd)
-![image](https://github.com/user-attachments/assets/880de8c5-7fb7-476b-b9a6-ead16ee87e0c)
+![image](https://github.com/user-attachments/assets/46a41d6b-1690-40fb-ac35-c25b18d92a15)
+![image](https://github.com/user-attachments/assets/f56b9dc3-8103-46bd-a0b6-6e3034ed1593)
+![image](https://github.com/user-attachments/assets/5547edbe-bd79-4d58-8df9-9e1567be18fd)
+![image](https://github.com/user-attachments/assets/70ae56be-d7ca-40eb-8320-6b2786b90205)
 
 
 
