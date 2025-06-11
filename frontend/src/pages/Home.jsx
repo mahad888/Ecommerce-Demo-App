@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import ProductCard from "../components/ProductCard";
-import Cart from "../components/Cart";
+import Cart from "./Cart";
 import axios from "axios";
 import {  ProductCategories } from "../assets/constants/ProductCategories";
 
@@ -11,7 +11,7 @@ const Home = () => {
   const [page, setPage] = useState(1);
   const [hasMore, setHasMore] = useState(true);
   const [isLoading, setIsLoading] = useState(false);
-  const limit = 9;
+  const limit = 12;
 
   const fetchProducts = async (pageNum = 1, currentCategory = category) => {
     setIsLoading(true);
@@ -76,7 +76,7 @@ const Home = () => {
               onClick={() => setCategory(cat)}
               className={`px-4 py-2 rounded-full text-sm font-medium transition ${
                 category === cat
-                  ? "bg-blue-600 text-white"
+                  ? "bg-yellow-500 text-white"
                   : "bg-white text-gray-800 border border-gray-300 hover:bg-blue-100"
               }`}
               disabled={isLoading}
@@ -88,7 +88,7 @@ const Home = () => {
 
         {/* Product Grid + Cart */}
         <div className="grid grid-cols-1 md:grid-cols-4 gap-6">
-          <div className="md:col-span-3 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+          <div className="md:col-span-4 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
             {products.map((product) => (
               <ProductCard
                 key={`${product.id}-${product.category}`}
@@ -97,9 +97,9 @@ const Home = () => {
               />
             ))}
           </div>
-          <div className="hidden md:block md:col-span-1 sticky top-6">
-            <Cart cartItems={cart} />
-          </div>
+          {/* <div className="hidden md:block md:col-span-1 sticky top-6">
+            <Cart  />
+          </div> */}
         </div>
 
         {hasMore && (

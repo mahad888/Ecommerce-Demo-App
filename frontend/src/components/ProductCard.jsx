@@ -17,11 +17,11 @@ const ProductCard = ({ product }) => {
 
       <div className="mt-4 text-center">
         <h2 className="text-xl font-semibold text-gray-800 line-clamp-2">{product.title}</h2>
-        <p className="text-lg text-blue-600 font-medium mt-1">${product.price}</p>
+        <p className="text-lg text-yellow-600 font-medium mt-1">${product.price}</p>
 
         <button
           onClick={() => dispatch(addToCart(product))}
-          className="mt-4 w-full flex items-center justify-center gap-2 bg-blue-600 hover:bg-blue-700 text-white py-2 px-4 rounded-lg transition-all duration-200"
+          className="mt-4 w-full flex items-center justify-center gap-2 bg-yellow-500 hover:bg-yellow-400 text-white py-2 px-4 rounded-lg transition-all duration-200"
         >
           <FaShoppingCart className="text-sm" />
           Add to Cart
